@@ -43,6 +43,8 @@ ul {
     font-size: 1.3em;
 }
 
-.emoji {
-    font-size: 8em;
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
 }
